@@ -2,15 +2,14 @@
 
 # We-Care 💙
 
-A project dedicated to [briefly describe purpose, e.g., "supporting community health initiatives" or "providing resources for caregivers"].  
+A project dedicated to the practice of stacks such as HTML5 and CSS3, as well as features like screen adaptation with @mediaquery, as part of my skills training. For that purpose I used an UI Design mockup made on Figma by DevClub's team.
 
 ---
 
 ## 🚀 Features
 - Clear and simple interface
-- [Feature 1: e.g., "Track activities"]
-- [Feature 2: e.g., "Share resources"]
-- [Feature 3: e.g., "Community support"]
+- Screen size and proportion adaptation
+- Adoption of just two stacks
 
 ---
 
@@ -22,15 +21,11 @@ git clone https://github.com/pieroalyson/we-care.git
 cd we-care
 npm install
 npm start
-
+```
 ---
 
 🛠️ Technologies
-[React / Vue / Angular] (replace with your stack)
-
-[Node.js / Express]
-
-[Database: MongoDB / PostgreSQL]
+[HTML5 / CSS3]
 
 🤝 Contributing
 Contributions are welcome!
@@ -46,11 +41,7 @@ Push to branch (git push origin feature-name)
 Open a Pull Request
 
 📄 License
-This project is licensed under the
+This project is under Open Source license
 
 
 ---
-
-✨ This is a flexible skeleton—you can expand sections like **Features**, **Usage**, or **Technologies** depending on what *we-care* actually does.  
-
-Would you like me to make it more **minimalist** (short and clean) or more **detailed** (with screenshots, badges, and roadmap)?
