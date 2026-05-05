@@ -19,8 +19,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/pieroalyson/we-care.git
 cd we-care
-npm install
-npm start
 ```
 ---
 
